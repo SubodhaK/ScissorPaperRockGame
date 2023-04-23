@@ -39,7 +39,7 @@ HowManyRounds = int(input("how many rounds you need?  "))
 
 
 
-choises = ["seaser","paper","rock"]
+choises = ["scissor","paper","rock"]
 
 
 # this is the computer choise
